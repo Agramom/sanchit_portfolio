@@ -22,7 +22,7 @@ function Navbar({handletheme,theme})
 
     return <>
     <div className={"navbar"+theme}>
-        <a href="/#" className={"name"+theme}>Sanchit</a>
+        <a href="sanchit_portfolio/#" className={"name"+theme}>Sanchit</a>
         <button id={"navmenu"+theme} className="material-icons" onClick={handlemenu}>{menu}</button>
         <div className={"nav"+menu+theme}>
         
