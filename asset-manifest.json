@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sanchit_portfolio/static/css/main.d61e853c.css",
-    "main.js": "/sanchit_portfolio/static/js/main.36b3136a.js",
+    "main.js": "/sanchit_portfolio/static/js/main.0752a77c.js",
     "static/js/787.eb5f49fb.chunk.js": "/sanchit_portfolio/static/js/787.eb5f49fb.chunk.js",
     "static/media/sanchithd2.png": "/sanchit_portfolio/static/media/sanchithd2.c9c447d6f97c3ed09c43.png",
     "static/media/zoomcar.png": "/sanchit_portfolio/static/media/zoomcar.aabbd131680e3250bc81.png",
@@ -11,11 +11,11 @@
     "static/media/github.png": "/sanchit_portfolio/static/media/github.7acde23236a5c7507398.png",
     "index.html": "/sanchit_portfolio/index.html",
     "main.d61e853c.css.map": "/sanchit_portfolio/static/css/main.d61e853c.css.map",
-    "main.36b3136a.js.map": "/sanchit_portfolio/static/js/main.36b3136a.js.map",
+    "main.0752a77c.js.map": "/sanchit_portfolio/static/js/main.0752a77c.js.map",
     "787.eb5f49fb.chunk.js.map": "/sanchit_portfolio/static/js/787.eb5f49fb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d61e853c.css",
-    "static/js/main.36b3136a.js"
+    "static/js/main.0752a77c.js"
   ]
 }
