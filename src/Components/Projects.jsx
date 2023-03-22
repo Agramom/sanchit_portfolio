@@ -13,7 +13,7 @@ import zostel from '../Resources/images/zostel.png'
             desc: 'The best online Hostel Booking in India. Zostel is an online Booking platform for over 50+ Lodging in India.',
             worked: 'A collaborative project, built in 4 days by a team of 5 developers.',
             githubLink: 'https://github.com/rachnarajaka040/Zostel.com_clone',
-            deployedLink: 'https://sastazostel.vercel.app/',
+            deployedLink: 'https://zostelreactclone.vercel.app/',
             tags: ['HTML', 'CSS', 'Javascript', 'React', 'Redux','JSON']
         },
         // {
